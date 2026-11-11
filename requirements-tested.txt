@@ -1,0 +1,8 @@
+# Direct dependency versions used for the local Python 3.12.4 verification.
+# This is not a complete transitive environment lock.
+numpy==1.26.4
+scipy==1.13.1
+pandas==2.2.2
+matplotlib==3.8.4
+open3d==0.19.0
+tqdm==4.66.4
