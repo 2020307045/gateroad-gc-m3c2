@@ -1,0 +1,20 @@
+[
+  {
+    "archive_member": "reproduce_gateroad_denoising.py",
+    "repository_path": "scripts/reproduce_gateroad_denoising.py",
+    "source_sha256": "9be7ad016ce1750abb0d99b9c1c765ec2a79304c2b116882abc60186efea6426",
+    "changes": "Portable usage text and removal of local example paths; numerical routines retained."
+  },
+  {
+    "archive_member": "generate_gc_m3c2_deformation_cloudmap.py",
+    "repository_path": "scripts/generate_gc_m3c2_deformation_cloudmap.py",
+    "source_sha256": "dd1887178a956228c21b52d3fedcd047cd8cbe7a68be3d19b2c7c7363a670183",
+    "changes": "Portable usage text and removal of local example paths; numerical routines retained."
+  },
+  {
+    "archive_member": "split_gateroad_sections.py",
+    "repository_path": "scripts/split_gateroad_sections.py",
+    "source_sha256": "435f23ea4fc28ae1997804834d59dd08484e36bafe855adb6118166732eb7ad2",
+    "changes": "Portable usage text and removal of local example paths; numerical routines retained."
+  }
+]
